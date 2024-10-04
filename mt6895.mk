@@ -195,6 +195,7 @@ PRODUCT_PACKAGES += \
     LineageApertureOverlayMT6895 \
     LineageSDKOverlayMT6895 \
     LineageSettingsOverlayMT6895 \
+    LineageSystemUIOverlayMT6895 \
     LineageDialerMT6895
 
 # Radio
