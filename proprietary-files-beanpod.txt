@@ -82,4 +82,7 @@ vendor/thh/ta/d91f322ad5a441d5955110eda3272fc0.ta
 vendor/thh/ta/e5140b3376fa4c63ab18062caab2fb5c.ta
 vendor/thh/ta/e97c270ea5c44c58bcd3384a2fa2539e.ta
 vendor/thh/ta/fc32e4da17d342449b01c992d56d71bf.ta
+vendor/thh/ta/655a4b46cd7711eaaafbf382a6988e7b.ta
+vendor/thh/ta/7778c03fc30c4dd0a319ea29643d4d4b.ta
+vendor/thh/ta/8aaaf201246000007143fe4f7c823c80.ta
 vendor/thh/ta/isee_model.json
