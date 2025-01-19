@@ -237,7 +237,7 @@ vendor/lib64/vendor.mediatek.hardware.pq@2.8.so
 vendor/lib64/vendor.mediatek.hardware.pq@2.9.so
 
 # Display (Thread unwinding) - from duchamp_global-user 14 UP1A.230905.011 V816.0.12.0.UNLMIXM release-keys
-vendor/lib64/libladder.so|db8bdb58e6f4a4250bb5f471fbe8ea6a12897c22
+vendor/lib64/libladder.so
 
 # DRM
 vendor/bin/hw/android.hardware.drm@1.4-service.widevine
@@ -282,11 +282,8 @@ vendor/lib64/mt6895/libmnl.so;SYMLINK=vendor/lib64/libmnl.so
 vendor/lib64/librpc.so
 vendor/lib64/libviagpsrpc.so
 
-# HotwordEnrollment
-product/priv-app/HotwordEnrollmentOKGoogleRISCV/HotwordEnrollmentOKGoogleRISCV.apk
-product/priv-app/HotwordEnrollmentXGoogleRISCV/HotwordEnrollmentXGoogleRISCV.apk
-system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml
-system_ext/framework/com.android.hotwordenrollment.common.util.jar
+# HotwordEnrollment (removed since Chinese ROMs don't support HotwordEnrollment)
+
 
 # IMS
 system_ext/bin/vtservice
